@@ -3,7 +3,7 @@
 ## Contacts  
 * Phone: +48785347905
 * E-mail: maryna.lialik@gmail.com
-* diskord: maniuska 
+* discord: maniuska 
 * [Linkedin](http://linkedin.com/in/mlialik/)
 ---
  

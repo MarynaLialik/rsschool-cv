@@ -1,0 +1,36 @@
+section, nav, header, footer {
+    max-width: 700px;
+    margin: auto;
+}
+
+header, footer {
+    border-bottom: 2px solid #ccc;
+    border-top: 2px solid #ccc;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contacts, footer {
+    display: flex;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+.photo {
+    border: 5px #ccc solid;
+    margin-top: 10px;
+}
+
+.photo img { 
+    width: 100px;
+}
+
+.logo img {
+    padding: 10px;
+    width: 60px;
+}
